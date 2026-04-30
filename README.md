@@ -96,7 +96,6 @@ Add visual dashboards
 ---
 
 ## Author
-
-Your Name
+Shubham Kumar Mishra
 
 ---
